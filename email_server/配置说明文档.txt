@@ -1,9 +1,0 @@
-可以直接打开邮件客户端.exe运行！！（弹出命令行窗口后稍等即可弹出图形化界面）
-
-
-也可以用vscode或pycharm打开源代码文件夹，编译emailServer.py文件运行！！
-（需要安装pyqt5，已安装忽略）
-安装步骤：打开cmd
-输入 pip3 install pyqt5 -i https://pypi.douban.com/simple 安装完成后
-输入 pip3 install pyqt5-tools -i https://pypi.douban.com/simple 安装完成！！！
-
